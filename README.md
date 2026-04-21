@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shivansh%20Khare&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Backend%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Building%20Real%20-World%20Projects&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shivansh%20Khare&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Software %20Developer%20%7C%20Java%20Enthusiast%20%7C%20Building%20Real%20-World%20Projects&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=shivansh1512x">
